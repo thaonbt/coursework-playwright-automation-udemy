@@ -59,3 +59,4 @@ build/
 *.war
 *.ear
 *.zip
+/.idea/.gitignore

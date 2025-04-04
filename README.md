@@ -34,6 +34,7 @@ written by JavaScript on Visual Studio Code IDE
 We suggest that you begin by typing:
 
 `npx playwright test`
+**Note: add `--headed` to let the test run on browser
 
 And, this for open the last HTML report run:
 

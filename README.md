@@ -83,7 +83,7 @@ Feel free to open and review these generated files to understand how the test su
 ---
 
 ### 📜 Verified Certificate
-*   You can view my official course completion certificate here: [Udemy Verified Certificate](https://udemy.com)
+*   _Status:_ Course currently in progress. The official completion certificate will be linked here upon graduation.
 
 ---
 _Disclaimer: This repository is maintained strictly for personal learning, code practice, and future reference. For more detailed training materials, visit the official [Playwright Documentation](https://playwright.dev/docs/intro)._
